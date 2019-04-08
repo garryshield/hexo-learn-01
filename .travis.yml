@@ -22,6 +22,6 @@ env:
   global:
   - USER_NAME="garryshield"
   - USER_EMAIL="749291704@qq.com"
-  - REPO="hexo-learn-01.git"
+  - REPO="hexo-learn-01"
   - GH_REF="github.com/${USER_NAME}/${REPO}.git"
   - secure: jaI5tqzLW/JZGBTY11EXcwjSc3fF03+Lt52TLPjgH0S5kgFSqMFdFcLOzzhiq61rru+DqyD4ZzovpViBv5Xrpd4T5YT08vLjxEr1TQZzyeyxLxm7UZr889UUWqyXASxdp3wRVjkdTXmOk3Pzqucf5/tXgH4WQLmuYe2mXnebWU/dEd9MJ4v91kauylWTIV/67fVDLVIZTsFg+ogO7wxjhVPtuLkoYTYvTE3eEgnfZEX06l/FamleoDvqZmjlukm9unY2zdntZRaFB0HZh/frA465g9rJNobflcqC0qpMYD0ftP2QgL7jDNfZaTL6SXlicRxAnNCiFtdn4I/dIkSBHeWadudF/mXgf2hH6pURzGj+53RuN9rcCzzYtTYyG1iPOoGafA5QN1Z2j4leHvjKBFbw6UzLOw8GmKMKJLugHXb9buKCZh5E7nd2cZVqMgPdHG10OOmDSUdhH0kMRdWOi0dnFaPmBz6ZobVbhM1961wdQreLuaP0D5yUM3BkrAyTrUyp3Wg/13pOviEccJP4rW5JKN5oD3LoWPI2w3ve2nSuKn5uAKxx1yIyyUWDsvBj6BAMECXypXryTWVDte2mHvgFFA+kJsP9lUrGWx+7um0aiOKFbluh7lF9Xra6jxvX8gYneuSUHidLwGhLwozLOpPSvLgoTAzaap+7ULgHGvM=
